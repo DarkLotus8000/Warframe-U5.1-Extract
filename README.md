@@ -1,0 +1,1 @@
+Extracted via [decacher v1](https://archive.org/details/warframe-voidlabs-tools).
